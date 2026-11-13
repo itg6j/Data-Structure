@@ -1,4 +1,4 @@
-public class Stack{
+public class Stackbasedarr{
     private int[] arr;
     private int top;
     private int capacity;
